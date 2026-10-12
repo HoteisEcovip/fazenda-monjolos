@@ -2887,8 +2887,8 @@
     ]
   },
   "beneficios": {
-    "titulo": "Hospedando na Fazenda Monjolos, vocês também aproveitam benefícios da EcoVip.",
-    "intro": "A Fazenda Monjolos faz parte do Grupo EcoVip e oferece benefícios para deixar a estadia ainda mais completa:",
+    "titulo": "Hospedando na Fazenda Monjolos, vocês têm condições especiais em serviços da EcoVip.",
+    "intro": "A Fazenda Monjolos faz parte do Grupo EcoVip e oferece serviços extras com preço especial para vocês.",
     "itens": [
       {
         "id": "passeios",
@@ -2931,7 +2931,8 @@
               "whatsapp": "Olá! Quero reservar um passeio com o guia (desconto de 5% para hóspedes EcoVip)."
             }
           ]
-        }
+        },
+        "preco": "Passeio pago à parte, com 5% de desconto"
       },
       {
         "id": "massagem",
@@ -2962,7 +2963,8 @@
           ],
           "fotos": [],
           "nota": "Agende na recepção da pousada."
-        }
+        },
+        "preco": "A partir de R$ 190,00 por pessoa"
       },
       {
         "id": "decoracao",
@@ -3030,10 +3032,12 @@
               "mini": "img/beneficios/decoracao-murj66quqnx.m.webp"
             }
           ]
-        }
+        },
+        "preco": "A partir de R$ 200,00"
       }
     ],
-    "fecho": "Menos pressa. Mais presença."
+    "fecho": "Menos pressa. Mais presença.",
+    "aviso": "São serviços extras, pagos à parte, com condições especiais para hóspedes. Consulte valores e disponibilidade na recepção."
   },
   "galeria": {
     "eyebrow": "Galeria",
