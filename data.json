@@ -2888,8 +2888,8 @@
     ]
   },
   "beneficios": {
-    "titulo": "Hospedando na Fazenda Monjolos, vocês têm condições especiais em serviços da EcoVip.",
-    "intro": "A Fazenda Monjolos faz parte do Grupo EcoVip e oferece serviços extras com preço especial para vocês.",
+    "titulo": "Hospedando na Fazenda Monjolos, vocês também aproveitam benefícios da EcoVip.",
+    "intro": "A Fazenda Monjolos faz parte do Grupo EcoVip e oferece benefícios para deixar a estadia ainda mais completa:",
     "itens": [
       {
         "id": "passeios",
