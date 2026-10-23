@@ -536,33 +536,6 @@
         ]
       },
       {
-        "id": "cachoeira",
-        "icone": "cachoeira",
-        "titulo": "Regras da cachoeira",
-        "texto": "Acesso por conta e risco do visitante",
-        "textos": [
-          "ACESSO POR CONTA E RISCO DO VISITANTE."
-        ],
-        "blocos": [
-          {
-            "titulo": "Leia antes de ir",
-            "itens": [
-              "PERIGO: risco de queda, escorregões, afogamento e tromba-d’água (aumento repentino e imprevisível do nível da água).",
-              "PISO IRREGULAR, MOLHADO E ESCORREGADIO. Caminhe com cuidado.",
-              "PROIBIDO O ACESSO À CACHOEIRA E O BANHO EM DIAS DE CHUVA OU COM PREVISÃO DE CHUVA NA REGIÃO. Se a chuva começar, afaste-se imediatamente da água e procure um local seguro.",
-              "CRIANÇAS SOMENTE ACOMPANHADAS DOS PAIS OU RESPONSÁVEIS.",
-              "NÃO PULE, NÃO CORRA E NÃO SE APROXIME DA BORDA.",
-              "HORÁRIO DE ACESSO À CACHOEIRA: das 8h às 18h.",
-              "É PROIBIDO: levar recipientes de vidro, fazer churrascos ou fogueiras, jogar cigarros na mata e deixar lixo no local.",
-              "CUIDE DOS SEUS PERTENCES. Mantenha seus objetos pessoais sob sua responsabilidade. A administração não se responsabiliza por perdas ou danos aos pertences.",
-              "PRESERVE A NATUREZA. Respeite os animais e a vegetação. Não alimente os animais silvestres nem deixe resíduos no local.",
-              "SIGA RIGOROSAMENTE AS ORIENTAÇÕES E SINALIZAÇÕES DA POUSADA."
-            ]
-          }
-        ],
-        "nota": "A administração não se responsabiliza por acidentes decorrentes do descumprimento destas normas."
-      },
-      {
         "id": "taxi",
         "icone": "carro",
         "titulo": "Taxistas",
