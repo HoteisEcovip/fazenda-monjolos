@@ -339,6 +339,57 @@
         ]
       },
       {
+        "id": "suite-standard-dupla",
+        "nome": "Suíte Standard Dupla",
+        "chamada": "Conforto e tranquilidade para o casal.",
+        "capacidade": 2,
+        "camas": "Cama de casal",
+        "caracteristicas": [],
+        "disponivel": [
+          {
+            "icone": "wifi",
+            "texto": "Wi-Fi de cortesia"
+          },
+          {
+            "icone": "chuveiro",
+            "texto": "Chuveiro quente"
+          },
+          {
+            "icone": "cafe",
+            "texto": "Café da manhã incluso"
+          },
+          {
+            "icone": "ar",
+            "texto": "Ventilador de teto"
+          }
+        ],
+        "informacoes": [
+          "Check-in a partir das 16h e check-out até as 14h."
+        ],
+        "fotos": [
+          {
+            "src": "img/quartos/suite-standard-dupla-zcfkf0p2bz.webp",
+            "mini": "img/quartos/suite-standard-dupla-zcfkf0p2bz.m.webp",
+            "alt": "Suíte Standard Dupla — foto 1"
+          },
+          {
+            "src": "img/quartos/suite-standard-dupla-xuff9y58cv.webp",
+            "mini": "img/quartos/suite-standard-dupla-xuff9y58cv.m.webp",
+            "alt": "Suíte Standard Dupla — foto 2"
+          },
+          {
+            "src": "img/quartos/suite-standard-dupla-x90wnihilw.webp",
+            "mini": "img/quartos/suite-standard-dupla-x90wnihilw.m.webp",
+            "alt": "Suíte Standard Dupla — foto 3"
+          },
+          {
+            "src": "img/quartos/suite-standard-dupla-q1dyxdc9vd.webp",
+            "mini": "img/quartos/suite-standard-dupla-q1dyxdc9vd.m.webp",
+            "alt": "Suíte Standard Dupla — foto 4"
+          }
+        ]
+      },
+      {
         "id": "luxo-quadruplo",
         "nome": "Luxo Quádruplo",
         "chamada": "Para o grupo todo viver a Serra junto.",
