@@ -391,7 +391,7 @@
       },
       {
         "id": "luxo-quadruplo",
-        "nome": "Luxo Quádruplo",
+        "nome": "Standard Quádruplo",
         "chamada": "Para o grupo todo viver a Serra junto.",
         "capacidade": 4,
         "camas": "Cama de casal + 2 camas de solteiro",
@@ -421,37 +421,37 @@
           {
             "src": "img/quartos/luxo-quadruplo-mut18yi9exb.webp",
             "mini": "img/quartos/luxo-quadruplo-mut18yi9exb.m.webp",
-            "alt": "Luxo Quádruplo — foto 1"
+            "alt": "Standard Quádruplo — foto 1"
           },
           {
             "src": "img/quartos/luxo-quadruplo-mut18yuvv8u.webp",
             "mini": "img/quartos/luxo-quadruplo-mut18yuvv8u.m.webp",
-            "alt": "Luxo Quádruplo — foto 2"
+            "alt": "Standard Quádruplo — foto 2"
           },
           {
             "src": "img/quartos/luxo-quadruplo-mut18z7hain.webp",
             "mini": "img/quartos/luxo-quadruplo-mut18z7hain.m.webp",
-            "alt": "Luxo Quádruplo — foto 3"
+            "alt": "Standard Quádruplo — foto 3"
           },
           {
             "src": "img/quartos/luxo-quadruplo-mut18zkgd5w.webp",
             "mini": "img/quartos/luxo-quadruplo-mut18zkgd5w.m.webp",
-            "alt": "Luxo Quádruplo — foto 4"
+            "alt": "Standard Quádruplo — foto 4"
           },
           {
             "src": "img/quartos/luxo-quadruplo-mut19000jqq.webp",
             "mini": "img/quartos/luxo-quadruplo-mut19000jqq.m.webp",
-            "alt": "Luxo Quádruplo — foto 5"
+            "alt": "Standard Quádruplo — foto 5"
           },
           {
             "src": "img/quartos/luxo-quadruplo-mut190caft8.webp",
             "mini": "img/quartos/luxo-quadruplo-mut190caft8.m.webp",
-            "alt": "Luxo Quádruplo — foto 6"
+            "alt": "Standard Quádruplo — foto 6"
           },
           {
             "src": "img/quartos/luxo-quadruplo-mut190onzgy.webp",
             "mini": "img/quartos/luxo-quadruplo-mut190onzgy.m.webp",
-            "alt": "Luxo Quádruplo — foto 7"
+            "alt": "Standard Quádruplo — foto 7"
           }
         ]
       },
