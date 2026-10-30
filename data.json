@@ -476,8 +476,8 @@
             "texto": "Café da manhã incluso"
           },
           {
-            "icone": "check",
-            "texto": "2 espaços"
+            "icone": "chuveiro",
+            "texto": "Hidromassagem"
           },
           {
             "icone": "ar",
@@ -489,59 +489,69 @@
         ],
         "fotos": [
           {
-            "src": "img/quartos/quarto-mut19jq4-mut1a0x953x.webp",
-            "mini": "img/quartos/quarto-mut19jq4-mut1a0x953x.m.webp",
-            "alt": "Suite master — foto 1"
+            "src": "img/quartos/suite-master-3zlv9n5z5i.webp",
+            "mini": "img/quartos/suite-master-3zlv9n5z5i.m.webp",
+            "alt": "Suíte Master — foto 1"
           },
           {
-            "src": "img/quartos/quarto-mut19jq4-mut1a1850em.webp",
-            "mini": "img/quartos/quarto-mut19jq4-mut1a1850em.m.webp",
-            "alt": "Suite master — foto 2"
+            "src": "img/quartos/suite-master-asask978el.webp",
+            "mini": "img/quartos/suite-master-asask978el.m.webp",
+            "alt": "Suíte Master — foto 2"
           },
           {
-            "src": "img/quartos/quarto-mut19jq4-mut1a1gqfi1.webp",
-            "mini": "img/quartos/quarto-mut19jq4-mut1a1gqfi1.m.webp",
-            "alt": "Suite master — foto 3"
+            "src": "img/quartos/suite-master-rid109i1w5.webp",
+            "mini": "img/quartos/suite-master-rid109i1w5.m.webp",
+            "alt": "Suíte Master — foto 3"
           },
           {
-            "src": "img/quartos/quarto-mut19jq4-mut1a1ov7ky.webp",
-            "mini": "img/quartos/quarto-mut19jq4-mut1a1ov7ky.m.webp",
-            "alt": "Suite master — foto 4"
+            "src": "img/quartos/suite-master-nuk94pbm2x.webp",
+            "mini": "img/quartos/suite-master-nuk94pbm2x.m.webp",
+            "alt": "Suíte Master — foto 4"
           },
           {
-            "src": "img/quartos/quarto-mut19jq4-mut1a212lmv.webp",
-            "mini": "img/quartos/quarto-mut19jq4-mut1a212lmv.m.webp",
-            "alt": "Suite master — foto 5"
+            "src": "img/quartos/suite-master-h7vqad354e.webp",
+            "mini": "img/quartos/suite-master-h7vqad354e.m.webp",
+            "alt": "Suíte Master — foto 5"
           },
           {
-            "src": "img/quartos/quarto-mut19jq4-mut1a2d669g.webp",
-            "mini": "img/quartos/quarto-mut19jq4-mut1a2d669g.m.webp",
-            "alt": "Suite master — foto 6"
+            "src": "img/quartos/suite-master-skl51jp64z.webp",
+            "mini": "img/quartos/suite-master-skl51jp64z.m.webp",
+            "alt": "Suíte Master — foto 6"
           },
           {
-            "src": "img/quartos/quarto-mut19jq4-mut1a2m6wwp.webp",
-            "mini": "img/quartos/quarto-mut19jq4-mut1a2m6wwp.m.webp",
-            "alt": "Suite master — foto 7"
+            "src": "img/quartos/suite-master-2heknelit8.webp",
+            "mini": "img/quartos/suite-master-2heknelit8.m.webp",
+            "alt": "Suíte Master — foto 7"
           },
           {
-            "src": "img/quartos/quarto-mut19jq4-mut1a2uuju5.webp",
-            "mini": "img/quartos/quarto-mut19jq4-mut1a2uuju5.m.webp",
-            "alt": "Suite master — foto 8"
+            "src": "img/quartos/suite-master-y96qnfiwvg.webp",
+            "mini": "img/quartos/suite-master-y96qnfiwvg.m.webp",
+            "alt": "Suíte Master — foto 8"
           },
           {
-            "src": "img/quartos/quarto-mut19jq4-mut1a33df9v.webp",
-            "mini": "img/quartos/quarto-mut19jq4-mut1a33df9v.m.webp",
-            "alt": "Suite master — foto 9"
+            "src": "img/quartos/suite-master-rd177ywuh9.webp",
+            "mini": "img/quartos/suite-master-rd177ywuh9.m.webp",
+            "alt": "Suíte Master — foto 9"
           },
           {
-            "src": "img/quartos/quarto-mut19jq4-mut1a3c144h.webp",
-            "mini": "img/quartos/quarto-mut19jq4-mut1a3c144h.m.webp",
-            "alt": "Suite master — foto 10"
+            "src": "img/quartos/suite-master-r1migux4ho.webp",
+            "mini": "img/quartos/suite-master-r1migux4ho.m.webp",
+            "alt": "Suíte Master — foto 10"
           },
           {
-            "src": "img/quartos/quarto-mut19jq4-mut1a3klpyo.webp",
-            "mini": "img/quartos/quarto-mut19jq4-mut1a3klpyo.m.webp",
-            "alt": "Suite master — foto 11"
+            "src": "img/quartos/suite-master-178isqvt0p.webp",
+            "mini": "img/quartos/suite-master-178isqvt0p.m.webp",
+            "alt": "Suíte Master — foto 11"
+          },
+          {
+            "src": "img/quartos/suite-master-jod6b0365x.webp",
+            "mini": "img/quartos/suite-master-jod6b0365x.m.webp",
+            "alt": "Suíte Master — foto 12"
+          },
+          {
+            "src": "img/quartos/suite-master-9bw7rxqpw0.webp",
+            "mini": "img/quartos/suite-master-9bw7rxqpw0.m.webp",
+            "alt": "Suíte Master — foto 13"
           }
         ]
       }
