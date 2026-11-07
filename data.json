@@ -22,8 +22,11 @@
     "nome": "Pousada Fazenda Monjolos",
     "regiao": "Serra do Cipó",
     "logo": "img/logo-mut1547job9.png",
-    "coordenadas": [-19.34226, -43.6437],
-    "endereco": "Rodovia MG-10, km 95 — Serra do Cipó, Santana do Riacho/MG",
+    "coordenadas": [
+      -19.34226,
+      -43.6437
+    ],
+    "endereco": "Rua Pau Monjolos, 307 - Bairro Vila Santa Rita, Santana do Riacho - MG, 35847-000",
     "whatsapp": "5531999582502",
     "whatsappMensagem": "Olá! Vi o site da Pousada Fazenda Monjolos e gostaria de mais informações.",
     "instagram": "https://www.instagram.com/pousadamonjolos/",
@@ -35,7 +38,7 @@
     "logo": "img/logo-ecovip.png",
     "url": "https://hoteisecovip.com.br/",
     "site": "https://hoteisecovip.com.br/",
-    "instagram": "https://instagram.com/ecovipcipo"
+    "instagram": "https://www.instagram.com/redeecovip/"
   },
   "hero": {
     "imagem": "img/capa-mut15efparw.webp",
@@ -44,6 +47,7 @@
     "frase": "A Serra do Cipó no ritmo de vocês."
   },
   "sobre": {
+    "botao": { "texto": "Fazer o tour virtual", "url": "https://snaptours.io/t/6a7c75e3bd1827fd5dd36ccb", "icone": "camera" },
     "eyebrow": "Conheça a Fazenda Monjolos",
     "titulo": "Um lugar para descansar. Uma Serra inteira para viver.",
     "textos": [
@@ -51,11 +55,6 @@
       "Café sem pressa, piscina, cachoeira dentro da pousada e liberdade para explorar a Serra — e voltar para um lugar tranquilo no fim do dia."
     ],
     "fotos": [
-      {
-        "src": "img/sobre/sobre-mut15lohl8u.webp",
-        "mini": "img/sobre/sobre-mut15lohl8u.m.webp",
-        "alt": "Conheça a pousada — foto 1"
-      },
       {
         "src": "img/sobre/sobre-mut15m5zvge.webp",
         "mini": "img/sobre/sobre-mut15m5zvge.m.webp",
@@ -92,11 +91,6 @@
         "alt": "Conheça a pousada — foto 8"
       },
       {
-        "src": "img/sobre/sobre-mut15pdmafp.webp",
-        "mini": "img/sobre/sobre-mut15pdmafp.m.webp",
-        "alt": "Conheça a pousada — foto 9"
-      },
-      {
         "src": "img/sobre/sobre-mut15pqr9xy.webp",
         "mini": "img/sobre/sobre-mut15pqr9xy.m.webp",
         "alt": "Conheça a pousada — foto 10"
@@ -110,11 +104,6 @@
         "src": "img/sobre/sobre-mut15qntm13.webp",
         "mini": "img/sobre/sobre-mut15qntm13.m.webp",
         "alt": "Conheça a pousada — foto 12"
-      },
-      {
-        "src": "img/sobre/sobre-mut15r4nhqv.webp",
-        "mini": "img/sobre/sobre-mut15r4nhqv.m.webp",
-        "alt": "Conheça a pousada — foto 13"
       },
       {
         "src": "img/sobre/sobre-mut15rlx97p.webp",
@@ -132,11 +121,6 @@
         "alt": "Conheça a pousada — foto 16"
       },
       {
-        "src": "img/sobre/sobre-mut15t0r2gd.webp",
-        "mini": "img/sobre/sobre-mut15t0r2gd.m.webp",
-        "alt": "Conheça a pousada — foto 17"
-      },
-      {
         "src": "img/sobre/sobre-mut15tngy45.webp",
         "mini": "img/sobre/sobre-mut15tngy45.m.webp",
         "alt": "Conheça a pousada — foto 18"
@@ -150,11 +134,6 @@
         "src": "img/sobre/sobre-mut15vf0gib.webp",
         "mini": "img/sobre/sobre-mut15vf0gib.m.webp",
         "alt": "Conheça a pousada — foto 20"
-      },
-      {
-        "src": "img/sobre/sobre-mut15w0t3vu.webp",
-        "mini": "img/sobre/sobre-mut15w0t3vu.m.webp",
-        "alt": "Conheça a pousada — foto 21"
       }
     ]
   },
@@ -209,11 +188,6 @@
             "src": "img/quartos/luxo-triplo-mut183r4i93.webp",
             "mini": "img/quartos/luxo-triplo-mut183r4i93.m.webp",
             "alt": "Luxo Triplo — foto 3"
-          },
-          {
-            "src": "img/quartos/luxo-triplo-mut184edkgb.webp",
-            "mini": "img/quartos/luxo-triplo-mut184edkgb.m.webp",
-            "alt": "Luxo Triplo — foto 4"
           },
           {
             "src": "img/quartos/luxo-triplo-mut184xd7tc.webp",
@@ -276,19 +250,9 @@
             "alt": "Luxo Duplo — foto 3"
           },
           {
-            "src": "img/quartos/luxo-duplo-mut18ir9t6v.webp",
-            "mini": "img/quartos/luxo-duplo-mut18ir9t6v.m.webp",
-            "alt": "Luxo Duplo — foto 4"
-          },
-          {
             "src": "img/quartos/luxo-duplo-mut18izoue9.webp",
             "mini": "img/quartos/luxo-duplo-mut18izoue9.m.webp",
             "alt": "Luxo Duplo — foto 5"
-          },
-          {
-            "src": "img/quartos/luxo-duplo-mut18j8xayz.webp",
-            "mini": "img/quartos/luxo-duplo-mut18j8xayz.m.webp",
-            "alt": "Luxo Duplo — foto 6"
           },
           {
             "src": "img/quartos/luxo-duplo-mut18jlafv2.webp",
@@ -304,36 +268,6 @@
             "src": "img/quartos/luxo-duplo-mut18k5i3qk.webp",
             "mini": "img/quartos/luxo-duplo-mut18k5i3qk.m.webp",
             "alt": "Luxo Duplo — foto 9"
-          },
-          {
-            "src": "img/quartos/luxo-duplo-mut18kh3cjz.webp",
-            "mini": "img/quartos/luxo-duplo-mut18kh3cjz.m.webp",
-            "alt": "Luxo Duplo — foto 10"
-          },
-          {
-            "src": "img/quartos/luxo-duplo-mut18ksodpm.webp",
-            "mini": "img/quartos/luxo-duplo-mut18ksodpm.m.webp",
-            "alt": "Luxo Duplo — foto 11"
-          },
-          {
-            "src": "img/quartos/luxo-duplo-mut18l541xo.webp",
-            "mini": "img/quartos/luxo-duplo-mut18l541xo.m.webp",
-            "alt": "Luxo Duplo — foto 12"
-          },
-          {
-            "src": "img/quartos/luxo-duplo-mut18li4ugy.webp",
-            "mini": "img/quartos/luxo-duplo-mut18li4ugy.m.webp",
-            "alt": "Luxo Duplo — foto 13"
-          },
-          {
-            "src": "img/quartos/luxo-duplo-mut18lu0unw.webp",
-            "mini": "img/quartos/luxo-duplo-mut18lu0unw.m.webp",
-            "alt": "Luxo Duplo — foto 14"
-          },
-          {
-            "src": "img/quartos/luxo-duplo-mut18m7uqep.webp",
-            "mini": "img/quartos/luxo-duplo-mut18m7uqep.m.webp",
-            "alt": "Luxo Duplo — foto 15"
           }
         ]
       },
@@ -418,11 +352,6 @@
         ],
         "fotos": [
           {
-            "src": "img/quartos/luxo-quadruplo-mut18yi9exb.webp",
-            "mini": "img/quartos/luxo-quadruplo-mut18yi9exb.m.webp",
-            "alt": "Standard Quádruplo — foto 1"
-          },
-          {
             "src": "img/quartos/luxo-quadruplo-mut18yuvv8u.webp",
             "mini": "img/quartos/luxo-quadruplo-mut18yuvv8u.m.webp",
             "alt": "Standard Quádruplo — foto 2"
@@ -446,11 +375,6 @@
             "src": "img/quartos/luxo-quadruplo-mut190caft8.webp",
             "mini": "img/quartos/luxo-quadruplo-mut190caft8.m.webp",
             "alt": "Standard Quádruplo — foto 6"
-          },
-          {
-            "src": "img/quartos/luxo-quadruplo-mut190onzgy.webp",
-            "mini": "img/quartos/luxo-quadruplo-mut190onzgy.m.webp",
-            "alt": "Standard Quádruplo — foto 7"
           }
         ]
       },
@@ -2343,8 +2267,7 @@
         "titulo": "Amenities",
         "texto": "Sabonete, shampoo e condicionador."
       }
-    ],
-    "observacao": "Toalhas de piscina não são fornecidas — traga a sua."
+    ]
   },
   "regras": {
     "eyebrow": "O que não é permitido",
@@ -2434,7 +2357,7 @@
         "id": "massagem",
         "icone": "massagem",
         "titulo": "Massagem relaxante",
-        "texto": "Realizada por profissionais parceiros. Confira a disponibilidade na recepção.",
+        "texto": "Realizada por profissionais parceiros.",
         "botao": "Ver detalhes",
         "detalhes": {
           "destaque": "Sessão de 50 minutos",
@@ -2453,12 +2376,11 @@
               "titulo": "Agendamento",
               "itens": [
                 "Sinal de R$ 60,00 via Pix",
-                "Valor restante pago diretamente na recepção"
+                "Valor restante pago diretamente na pousada"
               ]
             }
           ],
-          "fotos": [],
-          "nota": "Agende na recepção da pousada."
+          "fotos": []
         },
         "preco": "A partir de R$ 190,00 por pessoa"
       },
@@ -2490,7 +2412,7 @@
               ]
             }
           ],
-          "nota": "Surpreenda quem você ama com momentos inesquecíveis! Peça a sua na recepção.",
+          "nota": "Surpreenda quem você ama com momentos inesquecíveis!",
           "fotos": [
             {
               "src": "img/beneficios/decoracao-murj5lew20x.webp",
@@ -2533,7 +2455,7 @@
       }
     ],
     "fecho": "Menos pressa. Mais presença.",
-    "aviso": "São serviços extras, pagos à parte, com condições especiais para hóspedes. Consulte valores e disponibilidade na recepção."
+    "aviso": "São serviços extras, pagos à parte, com condições especiais para hóspedes. Consulte valores e disponibilidade pelo WhatsApp."
   },
   "galeria": {
     "eyebrow": "Galeria",
