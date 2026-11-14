@@ -179,29 +179,14 @@
         ],
         "fotos": [
           {
-            "src": "img/quartos/luxo-triplo-mz2nfzv0l40.webp",
-            "alt": "Luxo Triplo — foto 1",
-            "mini": "img/quartos/luxo-triplo-mz2nfzv0l40.m.webp"
-          },
-          {
-            "src": "img/quartos/luxo-triplo-mz8k63fcstb.webp",
-            "alt": "Luxo Triplo — foto 2",
-            "mini": "img/quartos/luxo-triplo-mz8k63fcstb.m.webp"
-          },
-          {
             "src": "img/quartos/luxo-triplo-mztujgn7j3u.webp",
-            "alt": "Luxo Triplo — foto 3",
+            "alt": "Luxo Triplo — foto 1",
             "mini": "img/quartos/luxo-triplo-mztujgn7j3u.m.webp"
           },
           {
             "src": "img/quartos/luxo-triplo-mzw76ohusul.webp",
-            "alt": "Luxo Triplo — foto 4",
+            "alt": "Luxo Triplo — foto 2",
             "mini": "img/quartos/luxo-triplo-mzw76ohusul.m.webp"
-          },
-          {
-            "src": "img/quartos/luxo-triplo-mzqzv3qjad5.webp",
-            "alt": "Luxo Triplo — foto 5",
-            "mini": "img/quartos/luxo-triplo-mzqzv3qjad5.m.webp"
           }
         ]
       },
@@ -239,39 +224,24 @@
         ],
         "fotos": [
           {
-            "src": "img/quartos/luxo-duplo-mut18htb8z1.webp",
-            "mini": "img/quartos/luxo-duplo-mut18htb8z1.m.webp",
-            "alt": "Luxo Duplo — foto 1"
+            "src": "img/quartos/luxo-duplo-mzt9a85pqpe.webp",
+            "alt": "Luxo Duplo — foto 1",
+            "mini": "img/quartos/luxo-duplo-mzt9a85pqpe.m.webp"
           },
           {
-            "src": "img/quartos/luxo-duplo-mut18i6b9a4.webp",
-            "mini": "img/quartos/luxo-duplo-mut18i6b9a4.m.webp",
-            "alt": "Luxo Duplo — foto 2"
+            "src": "img/quartos/luxo-duplo-mzyj9xku3w2.webp",
+            "alt": "Luxo Duplo — foto 2",
+            "mini": "img/quartos/luxo-duplo-mzyj9xku3w2.m.webp"
           },
           {
-            "src": "img/quartos/luxo-duplo-mut18iiaw0b.webp",
-            "mini": "img/quartos/luxo-duplo-mut18iiaw0b.m.webp",
-            "alt": "Luxo Duplo — foto 3"
+            "src": "img/quartos/luxo-duplo-mz0zgn7agcr.webp",
+            "alt": "Luxo Duplo — foto 3",
+            "mini": "img/quartos/luxo-duplo-mz0zgn7agcr.m.webp"
           },
           {
-            "src": "img/quartos/luxo-duplo-mut18izoue9.webp",
-            "mini": "img/quartos/luxo-duplo-mut18izoue9.m.webp",
-            "alt": "Luxo Duplo — foto 5"
-          },
-          {
-            "src": "img/quartos/luxo-duplo-mut18jlafv2.webp",
-            "mini": "img/quartos/luxo-duplo-mut18jlafv2.m.webp",
-            "alt": "Luxo Duplo — foto 7"
-          },
-          {
-            "src": "img/quartos/luxo-duplo-mut18jtzit3.webp",
-            "mini": "img/quartos/luxo-duplo-mut18jtzit3.m.webp",
-            "alt": "Luxo Duplo — foto 8"
-          },
-          {
-            "src": "img/quartos/luxo-duplo-mut18k5i3qk.webp",
-            "mini": "img/quartos/luxo-duplo-mut18k5i3qk.m.webp",
-            "alt": "Luxo Duplo — foto 9"
+            "src": "img/quartos/luxo-duplo-mz87p08q5l1.webp",
+            "alt": "Luxo Duplo — foto 4",
+            "mini": "img/quartos/luxo-duplo-mz87p08q5l1.m.webp"
           }
         ]
       },
