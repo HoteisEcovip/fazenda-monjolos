@@ -166,6 +166,10 @@
             "texto": "ventilador de teto"
           },
           {
+            "icone": "ar",
+            "texto": "Ar-condicionado"
+          },
+          {
             "icone": "check",
             "texto": "com varanda"
           }
