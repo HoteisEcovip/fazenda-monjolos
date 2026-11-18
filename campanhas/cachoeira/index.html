@@ -8,7 +8,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400;1,500&family=Nunito+Sans:wght@300;400;600;700;800&display=swap">
-<link rel="stylesheet" href="estilo.css?v=3">
+<link rel="stylesheet" href="estilo.css?v=4">
 </head>
 <body>
 
@@ -96,25 +96,52 @@
   </section>
 
   <section class="passeio" id="caminho">
-    <div class="passeio__palco">
+    <div class="passeio__dentro">
       <div class="passeio__cab">
-        <p class="sub">Faça o caminho</p>
-        <h2 class="titulo">Da pousada <em>até a água</em></h2>
-        <p class="passeio__dica">Role a página e veja o trajeto</p>
+        <p class="sub">Veja o caminho</p>
+        <h2 class="titulo">Da pousada <em>até a cachoeira</em></h2>
+        <div class="fio"></div>
+        <p class="passeio__dica">Veja, foto por foto, o caminho que você faz a pé até a água.</p>
+        <ol class="passeio__como">
+          <li><b>1</b><span>Aperte o botão <strong>Próximo</strong> para ver a foto seguinte.</span></li>
+          <li><b>2</b><span>Para voltar, aperte <strong>Voltar</strong>.</span></li>
+          <li><b>3</b><span>Também dá para tocar na própria foto.</span></li>
+        </ol>
       </div>
-      <div class="passeio__quadros">
+      <div class="passeio__visor">
 <!-- PASSEIO:INICIO -->
-        <figure class="passeio__q"><img src="img/passeio/caminho-11071004-01.jpg" alt="Começa nas mesas da piscina" loading="eager" decoding="async"><figcaption>Começa nas mesas da piscina</figcaption></figure>
-        <figure class="passeio__q"><img src="img/passeio/caminho-11071004-02.jpg" alt="Siga a placa da cachoeira" loading="eager" decoding="async"><figcaption>Siga a placa da cachoeira</figcaption></figure>
-        <figure class="passeio__q"><img src="img/passeio/caminho-11071004-03.jpg" alt="Descida com corrimão" loading="eager" decoding="async"><figcaption>Descida com corrimão</figcaption></figure>
-        <figure class="passeio__q"><img src="img/passeio/caminho-11071004-04.jpg" alt="Pela sombra das árvores" loading="eager" decoding="async"><figcaption>Pela sombra das árvores</figcaption></figure>
-        <figure class="passeio__q"><img src="img/passeio/caminho-11071004-05.jpg" alt="O barulho da água já chega" loading="eager" decoding="async"><figcaption>O barulho da água já chega</figcaption></figure>
-        <figure class="passeio__q"><img src="img/passeio/caminho-11071004-06.jpg" alt="A cachoeira aparece" loading="eager" decoding="async"><figcaption>A cachoeira aparece</figcaption></figure>
-        <figure class="passeio__q"><img src="img/passeio/caminho-11071004-07.jpg" alt="Chegou: Cachoeira de Baixo" loading="eager" decoding="async"><figcaption>Chegou: Cachoeira de Baixo</figcaption></figure>
-        <figure class="passeio__q"><img src="img/passeio/caminho-11071004-08.jpg" alt="Agora é só aproveitar" loading="eager" decoding="async"><figcaption>Agora é só aproveitar</figcaption></figure>
+        <input class="passeio__radio" type="radio" name="passeio" id="passo-1" checked aria-label="Foto 1 de 8">
+        <input class="passeio__radio" type="radio" name="passeio" id="passo-2" aria-label="Foto 2 de 8">
+        <input class="passeio__radio" type="radio" name="passeio" id="passo-3" aria-label="Foto 3 de 8">
+        <input class="passeio__radio" type="radio" name="passeio" id="passo-4" aria-label="Foto 4 de 8">
+        <input class="passeio__radio" type="radio" name="passeio" id="passo-5" aria-label="Foto 5 de 8">
+        <input class="passeio__radio" type="radio" name="passeio" id="passo-6" aria-label="Foto 6 de 8">
+        <input class="passeio__radio" type="radio" name="passeio" id="passo-7" aria-label="Foto 7 de 8">
+        <input class="passeio__radio" type="radio" name="passeio" id="passo-8" aria-label="Foto 8 de 8">
+        <div class="passeio__quadros">
+          <figure class="passeio__q passeio__q--1"><label for="passo-2" class="passeio__foto" title="Ver a próxima foto"><img src="img/passeio/caminho-11071004-01.jpg" alt="Começa nas mesas da piscina" loading="eager" decoding="async"></label><figcaption><span class="passeio__conta">Foto 1 de 8</span>Começa nas mesas da piscina</figcaption></figure>
+          <figure class="passeio__q passeio__q--2"><label for="passo-3" class="passeio__foto" title="Ver a próxima foto"><img src="img/passeio/caminho-11071004-02.jpg" alt="Siga a placa da cachoeira" loading="eager" decoding="async"></label><figcaption><span class="passeio__conta">Foto 2 de 8</span>Siga a placa da cachoeira</figcaption></figure>
+          <figure class="passeio__q passeio__q--3"><label for="passo-4" class="passeio__foto" title="Ver a próxima foto"><img src="img/passeio/caminho-11071004-03.jpg" alt="Descida com corrimão" loading="eager" decoding="async"></label><figcaption><span class="passeio__conta">Foto 3 de 8</span>Descida com corrimão</figcaption></figure>
+          <figure class="passeio__q passeio__q--4"><label for="passo-5" class="passeio__foto" title="Ver a próxima foto"><img src="img/passeio/caminho-11071004-04.jpg" alt="Pela sombra das árvores" loading="eager" decoding="async"></label><figcaption><span class="passeio__conta">Foto 4 de 8</span>Pela sombra das árvores</figcaption></figure>
+          <figure class="passeio__q passeio__q--5"><label for="passo-6" class="passeio__foto" title="Ver a próxima foto"><img src="img/passeio/caminho-11071004-05.jpg" alt="O barulho da água já chega" loading="eager" decoding="async"></label><figcaption><span class="passeio__conta">Foto 5 de 8</span>O barulho da água já chega</figcaption></figure>
+          <figure class="passeio__q passeio__q--6"><label for="passo-7" class="passeio__foto" title="Ver a próxima foto"><img src="img/passeio/caminho-11071004-06.jpg" alt="A cachoeira aparece" loading="eager" decoding="async"></label><figcaption><span class="passeio__conta">Foto 6 de 8</span>A cachoeira aparece</figcaption></figure>
+          <figure class="passeio__q passeio__q--7"><label for="passo-8" class="passeio__foto" title="Ver a próxima foto"><img src="img/passeio/caminho-11071004-07.jpg" alt="Chegou: Cachoeira de Baixo" loading="eager" decoding="async"></label><figcaption><span class="passeio__conta">Foto 7 de 8</span>Chegou: Cachoeira de Baixo</figcaption></figure>
+          <figure class="passeio__q passeio__q--8"><label for="passo-1" class="passeio__foto" title="Ver a próxima foto"><img src="img/passeio/caminho-11071004-08.jpg" alt="Agora é só aproveitar" loading="eager" decoding="async"></label><figcaption><span class="passeio__conta">Foto 8 de 8</span>Agora é só aproveitar</figcaption></figure>
+        </div>
+        <div class="passeio__navs">
+          <div class="passeio__nav passeio__nav--1"><span class="passeio__btn passeio__btn--voltar passeio__btn--off" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg>Voltar</span><label for="passo-2" class="passeio__btn passeio__btn--prox">Próximo<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"/></svg></label></div>
+          <div class="passeio__nav passeio__nav--2"><label for="passo-1" class="passeio__btn passeio__btn--voltar"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg>Voltar</label><label for="passo-3" class="passeio__btn passeio__btn--prox">Próximo<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"/></svg></label></div>
+          <div class="passeio__nav passeio__nav--3"><label for="passo-2" class="passeio__btn passeio__btn--voltar"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg>Voltar</label><label for="passo-4" class="passeio__btn passeio__btn--prox">Próximo<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"/></svg></label></div>
+          <div class="passeio__nav passeio__nav--4"><label for="passo-3" class="passeio__btn passeio__btn--voltar"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg>Voltar</label><label for="passo-5" class="passeio__btn passeio__btn--prox">Próximo<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"/></svg></label></div>
+          <div class="passeio__nav passeio__nav--5"><label for="passo-4" class="passeio__btn passeio__btn--voltar"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg>Voltar</label><label for="passo-6" class="passeio__btn passeio__btn--prox">Próximo<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"/></svg></label></div>
+          <div class="passeio__nav passeio__nav--6"><label for="passo-5" class="passeio__btn passeio__btn--voltar"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg>Voltar</label><label for="passo-7" class="passeio__btn passeio__btn--prox">Próximo<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"/></svg></label></div>
+          <div class="passeio__nav passeio__nav--7"><label for="passo-6" class="passeio__btn passeio__btn--voltar"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg>Voltar</label><label for="passo-8" class="passeio__btn passeio__btn--prox">Próximo<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"/></svg></label></div>
+          <div class="passeio__nav passeio__nav--8"><label for="passo-7" class="passeio__btn passeio__btn--voltar"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg>Voltar</label><label for="passo-1" class="passeio__btn passeio__btn--prox"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 12a8 8 0 1 0 2.4-5.7M4 4v4h4"/></svg>Ver de novo desde o início</label></div>
+        </div>
+        <div class="passeio__barra" aria-hidden="true"><span>Pousada</span><i></i><span>Cachoeira</span></div>
+        <div class="passeio__pontos"><label for="passo-1" aria-label="Ir para a foto 1">1</label><label for="passo-2" aria-label="Ir para a foto 2">2</label><label for="passo-3" aria-label="Ir para a foto 3">3</label><label for="passo-4" aria-label="Ir para a foto 4">4</label><label for="passo-5" aria-label="Ir para a foto 5">5</label><label for="passo-6" aria-label="Ir para a foto 6">6</label><label for="passo-7" aria-label="Ir para a foto 7">7</label><label for="passo-8" aria-label="Ir para a foto 8">8</label></div>
 <!-- PASSEIO:FIM -->
       </div>
-      <div class="passeio__barra" aria-hidden="true"><span>Pousada</span><i></i><span>Cachoeira</span></div>
     </div>
   </section>
 
